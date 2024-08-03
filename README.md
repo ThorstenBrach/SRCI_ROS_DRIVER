@@ -1,7 +1,7 @@
 # SRCI ROS Driver
 ROS Driver for the Standard Robot Command Interface
 
-This is an open source ROS Driver inplementation for the on SRCI specification V1.3 (March 2023).
+This is an open source ROS Driver inplementation based on the on SRCI specification V1.3 (March 2023).
 
 More information about SRCI : https://www.profibus.com/technologies/robotics-srci
 
